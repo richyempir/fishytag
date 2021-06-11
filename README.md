@@ -1,0 +1,2 @@
+# fishytag
+This is  testnet 
